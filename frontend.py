@@ -5,8 +5,6 @@ from dotenv import load_dotenv
 import os
 from datetime import datetime, date
 
-load_dotenv()
-
 # Database connection string
 DATABASE_URL = "postgresql://marriott_cq2r_user:tmynVDjwCktaZL6KCzWXdDr2EuI3hTK8@dpg-d1btqleuk2gs73a4897g-a.oregon-postgres.render.com/marriott_cq2r"
 
